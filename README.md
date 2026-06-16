@@ -15,7 +15,7 @@ E-books collected according to [Milo Yip's](https://github.com/miloyip/game-prog
 ### CS Foundation
 
 - [x] [Computer Systems](https://github.com/kurong00/GameProgramBooks/blob/master//01.Computer%20Science/CS%20Foundation/Computer%20Systems.pdf)
-- [x] [Modern Operating Systems (4th edition)](https://github.com/kurong00/GameProgramBooks/blob/master//01.Computer%20Science/CS%20Foundation/Modern%20Operating%20Systems%20(4th%20edition).pdf)
+- [x] [Modern Operating Systems (4th edition)](<https://github.com/kurong00/GameProgramBooks/blob/master//01.Computer%20Science/CS%20Foundation/Modern%20Operating%20Systems%20(4th%20edition).pdf>)
 - [x] [Structure and Interpretation of Computer Programs](https://github.com/kurong00/GameProgramBooks/blob/master//01.Computer%20Science/CS%20Foundation/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf)
 - [x] [Computer Architecture](https://github.com/kurong00/GameProgramBooks/blob/master//01.Computer%20Science/CS%20Foundation/Computer%20Architecture.pdf)
 
@@ -37,9 +37,9 @@ E-books collected according to [Milo Yip's](https://github.com/miloyip/game-prog
 
 ### C\#
 
-- [x] [New book: Microsoft Visual C# Step by Step, Eighth Edition](https://github.com/kurong00/GameProgramBooks/blob/master/02.Programming%20Language/C%23/Microsoft%20Visual%20C%23%20Step%20by%20Step%20(Sharp)%20%5B2022%5D.pdf)
+- [x] [New book: Microsoft Visual C# Step by Step, Eighth Edition](<https://github.com/kurong00/GameProgramBooks/blob/master/02.Programming%20Language/C%23/Microsoft%20Visual%20C%23%20Step%20by%20Step%20(Sharp)%20%5B2022%5D.pdf>)
 - [x] [C# in Depth, Third Edition](https://github.com/kurong00/GameProgramBooks/blob/master//02.Programming%20Language/C%23/C%23%20in%20Depth%2C%20Third%20Edition.pdf)
-- [x] [CLR via C#](https://github.com/kurong00/GameProgramBooks/blob/master/02.Programming%20Language/C%23/CLR%20via%20C%23%20(.NET%204.5)%2C%204th%20Edition%202012.pdf)
+- [x] [CLR via C#](<https://github.com/kurong00/GameProgramBooks/blob/master/02.Programming%20Language/C%23/CLR%20via%20C%23%20(.NET%204.5)%2C%204th%20Edition%202012.pdf>)
 
 ### Lua
 
@@ -132,7 +132,7 @@ E-books collected according to [Milo Yip's](https://github.com/miloyip/game-prog
 
 ### Beginning Game Physics Programming
 
-- [x] [Physics for Game Developers 2nd Ed (2013)](https://github.com/kurong00/GameProgramBooks/blob/master/09.%20Game%20Physics%20and%20Animation/Beginning%20Game%20Physics%20Programming/Physics%20for%20Game%20Developers%202nd%20Ed%20(2013).pdf)
+- [x] [Physics for Game Developers 2nd Ed (2013)](<https://github.com/kurong00/GameProgramBooks/blob/master/09.%20Game%20Physics%20and%20Animation/Beginning%20Game%20Physics%20Programming/Physics%20for%20Game%20Developers%202nd%20Ed%20(2013).pdf>)
 
 ## 10.Game Artificial Intelligence
 
@@ -143,15 +143,17 @@ E-books collected according to [Milo Yip's](https://github.com/miloyip/game-prog
 
 ### Intermediate Game AI
 
-- [x] [Artificial Intelligence A Modern Approach (3rd Edition)](https://github.com/kurong00/GameProgramBooks/blob/master//10.Game%20Artificial%20Intelligence/Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf)
+- [x] [Artificial Intelligence A Modern Approach (3rd Edition)](<https://github.com/kurong00/GameProgramBooks/blob/master//10.Game%20Artificial%20Intelligence/Artificial%20Intelligence%20A%20Modern%20Approach%20(3rd%20Edition).pdf>)
 
 ## 11.Multiplayer Game Programming
 
 - [x] [Multiplayer Game Programming](https://github.com/kurong00/GameProgramBooks/blob/master//11.Multiplayer%20Game%20Programming/Multiplayer%20Game%20Programming.pdf)
 
+## 12.Milo Yip's Game Programmer Study Path
+
+![Milo Yip's Game Programmer Study Path](game-programmer.png)
 
 ## License
 
-All content is for **educational and non-commercial purposes only**. Support official publications. 
-DMCA Compliance: [Issues](https://github.com/kurong00/GameProgramBooks/issues) | [Email](mailto:kurong00@gmail.com) 
-
+All content is for **educational and non-commercial purposes only**. Support official publications.
+DMCA Compliance: [Issues](https://github.com/kurong00/GameProgramBooks/issues) | [Email](mailto:kurong00@gmail.com)
